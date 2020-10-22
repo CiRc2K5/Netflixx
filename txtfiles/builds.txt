@@ -1,0 +1,18 @@
+id="plugin.program.dougswizard"
+version="1.2"
+zip="https://drive.google.com/uc?export=download&id=1_ioRkJy03Kc-h0QABnKHmd5mZ53aTQoA"
+
+
+name="Shareflix"
+version="1.1"
+url="https://drive.google.com/file/d/1_GNCJ_RS7b_0KsdUxte5iGB7whrOx9pP/view"
+minor="http://"
+gui="http://"
+kodi="18.8"
+theme="http://"
+icon="http://"
+fanart="http://"
+preview="https://"
+adult="no"
+info="https://"
+description="Auramod (Netflik like skin), Seren, Venom, Exodus Redux, AutoWidget, YouTube"
